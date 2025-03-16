@@ -1,1 +1,2 @@
 # Pizza_java
+This project is a  Pizza Ordering System developed in Java, allowing users to choose from regular and deluxe pizzas with customization options like extra cheese, extra toppings, and takeaway. It demonstrates object-oriented programming (OOP) concepts such as inheritance, encapsulation, and method overriding, making it a great example of real-world application development. The system takes user input, calculates the total cost based on selections, and generates a detailed bill, ensuring a smooth and interactive ordering experience.
